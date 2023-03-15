@@ -1,6 +1,7 @@
 #Ejercicios 1
 
 # Introducción
+# Una expresión puede ser una operación aritmetica
 
 print(6 + 9)                       # 15
 print(3 - 1)                       # 2
