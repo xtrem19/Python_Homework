@@ -3,4 +3,4 @@ From Python workshop LITUX-UAZ 2023
 
 Ana Gabriela Sánchez Reyna
 
-[Unciafidelis - Python_Workshop_2023](https://github.com/unciafidelis/)
+[Unciafidelis - Python_Workshop_2023](https://github.com/unciafidelis/Python_workshop_2023)
